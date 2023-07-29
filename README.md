@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Christian OS</h1>
 <h3 align="center">A passionate web developer from Piura-Perú</h3>
 
-- 🔭 I’m currently working on **Ecommerce-angular y Express**
+- 🔭 I’m currently working on **Control de Finanzas (React y Express)**
 
-- 🌱 I’m currently learning **Angular, TypeScript, docker, Laravel, React, Nodejs**
+- 🌱 I’m currently learning **React, TypeScript, docker, Laravel, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://cros17.github.io/portafolio/](https://cros17.github.io/portafolio/)
 
