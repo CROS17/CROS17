@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🔭 I’m currently working on **Finance Control application (React y Express)**<br><br>- 🌱 I’m currently learning **Vuejs, React, TypeScript, docker, Laravel, Nodejs**<br><br>- 👨‍💻 All of my projects are available at [https://cros17.github.io/portafolio/](https://cros17.github.io/portafolio/)<br><br>- 💬 Ask me about **laravel and Typescript**<br><br>- ⚡ Fun fact **I love to play the electric guitar**
+<br>- 🔭 I’m currently working on **Finance Control application (Angular y Spring Boot)**<br><br>- 🌱 I’m currently learning **Vuejs, React, TypeScript, docker, Laravel, Nodejs**<br><br>- 👨‍💻 All of my projects are available at [https://cros17.github.io/portafolio/](https://cros17.github.io/portafolio/)<br><br>- 💬 Ask me about **laravel and Typescript**<br><br>- ⚡ Fun fact **I love to play the electric guitar**
 
 
 ## 🌐 Socials:
